@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+qa/
+design-qa.md
+preview-mobile.png
+preview-works.png
+GitHub发布记录.md
+GitHub线上核验.json
